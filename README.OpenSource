@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "httpdate",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "1.0.2",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/pyfisch/httpdate",
+    "Description": "HTTP date parsing and formatting."
+  }
+]
